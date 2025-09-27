@@ -1,4 +1,4 @@
-# \# 📚 Plataforma EAD - Sistema de Matrículas
+#  📚 Plataforma EAD - Sistema de Matrículas
 
 # 
 
@@ -6,7 +6,7 @@
 
 # 
 
-# \## 🎯 Sobre o Projeto
+# \# 🎯 Sobre o Projeto
 
 # 
 
@@ -14,11 +14,11 @@
 
 # 
 
-# \## ✨ Funcionalidades
+# \# ✨ Funcionalidades
 
 # 
 
-# \### 👥 Gestão de Alunos
+# \## 👥 Gestão de Alunos
 
 # \- ✅ Cadastro, edição e exclusão de alunos
 
@@ -30,7 +30,7 @@
 
 # 
 
-# \### 📖 Gestão de Cursos
+# \## 📖 Gestão de Cursos
 
 # \- ✅ Cadastro, edição e exclusão de cursos
 
@@ -42,7 +42,7 @@
 
 # 
 
-# \### 🎓 Gestão de Matrículas
+# \## 🎓 Gestão de Matrículas
 
 # \- ✅ Sistema de matrícula aluno-curso
 
@@ -56,7 +56,7 @@
 
 # 
 
-# \## 🛠 Tecnologias Utilizadas
+# \# 🛠 Tecnologias Utilizadas
 
 # 
 
@@ -76,11 +76,11 @@
 
 # 
 
-# \## 🏗 Arquitetura
+# \# 🏗 Arquitetura
 
 # 
 
-\### Modelo de Dados
+\## Modelo de Dados
 
 📊 Aluno (1:N Matrícula) ├── Id (PK) ├── Nome (Required) ├── Email └── Telefone
 ===
@@ -93,7 +93,7 @@
 
 🎓 Matrícula (N:N entre Aluno e Curso) ├── AlunoId (PK, FK) ├── CursoId (PK, FK) ├── Data (Timestamp UTC) ├── PrecoPago (Decimal 18,2) ├── Status (Enum) ├── Progresso (0-100) └── NotaFinal (0-10, Nullable)
 
-###📁 Estrutura do Projeto
+##📁 Estrutura do Projeto
 ProjetoMatriculadeAluno/
 ===
 
