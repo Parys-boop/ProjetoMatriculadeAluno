@@ -1,0 +1,66 @@
+﻿@model MatriculaPorAlunoViewModel
+@{
+    ViewData["Title"] = "Matrículas do Aluno";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-3">Matrículas de @Model.Aluno.Nome</h2>
+    @if (TempData["Alert"] != null)
+    {
+            <div class="alert alert-success">@TempData["Alert"]</div>
+    }
+
+    @if (Model.Matriculas != null && Model.Matriculas.Any())
+    {
+            <form asp-action="SalvarMatricula" method="post">
+                <input type="hidden" name="AlunoId" value="@Model.Aluno.Id" />
+                <table class="table table-striped table-bordered shadow-sm">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Curso</th>
+                            <th>Progresso (%)</th>
+                            <th>Preço Pago</th>
+                            <th>Status</th>
+                            <th>Nota Final</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    @for (int i = 0; i < Model.Matriculas.Count; i++)
+                    {
+                                <tr>
+                                    <td>@Model.Matriculas[i].Curso?.Titulo</td>
+                                    <td>
+                                        <input type="hidden" name="Matriculas[@i].AlunoId" value="@Model.Matriculas[i].AlunoId" />
+                                        <input type="hidden" name="Matriculas[@i].CursoId" value="@Model.Matriculas[i].CursoId" />
+                                        <input type="number" name="Matriculas[@i].Progresso" value="@Model.Matriculas[i].Progresso" min="0" max="100" class="form-control" />
+                                    </td>
+                                    <td>
+                                        <input type="number" name="Matriculas[@i].PrecoPago" value="@Model.Matriculas[i].PrecoPago" min="0" step="0.01" class="form-control" />
+                                    </td>
+                                    <td>
+                                        <select name="Matriculas[@i].Status" class="form-select">
+                                    @foreach (StatusMatricula status in Enum.GetValues(typeof(StatusMatricula)))
+                                    {
+                                                    <option value="@status" selected="@(Model.Matriculas[i].Status == status ? "selected" : null)">
+                                            @status
+                                                    </option>
+                                    }
+                                        </select>
+                                    </td>
+                                    <td>
+                                        <input type="number" name="Matriculas[@i].NotaFinal" value="@Model.Matriculas[i].NotaFinal" min="0" max="10" class="form-control" />
+                                    </td>
+                                </tr>
+                    }
+                    </tbody>
+                </table>
+                <button type="submit" class="btn btn-success">Salvar Matrículas</button>
+                <a href="@Url.Action("Index", "Aluno")" class="btn btn-secondary ms-2">Voltar</a>
+            </form>
+    }
+    else
+    {
+            <div class="alert alert-info">Este aluno não possui matrículas.</div>
+            <a href="@Url.Action("Index", "Aluno")" class="btn btn-secondary">Voltar</a>
+    }
+</div>

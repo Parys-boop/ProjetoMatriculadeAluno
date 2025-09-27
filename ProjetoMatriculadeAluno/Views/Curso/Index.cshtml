@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Curso>
+@{
+    ViewData["Title"] = "Cursos";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-3">Cursos</h2>
+    <form method="get" class="input-group mb-3">
+        <input type="text" name="busca" class="form-control" placeholder="Buscar por título..." />
+        <button class="btn btn-primary" type="submit">Buscar</button>
+        <a href="@Url.Action("Create")" class="btn btn-success ms-2">Novo Curso</a>
+    </form>
+    @if (TempData["Alert"] != null)
+    {
+        <div class="alert alert-info">@TempData["Alert"]</div>
+    }
+    <table class="table table-striped table-bordered shadow-sm">
+        <thead class="table-dark">
+            <tr>
+                <th>Título</th>
+                <th>Descrição</th>
+                <th>Preço Base</th>
+                <th>Carga Horária</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var curso in Model)
+            {
+                <tr>
+                    <td>@curso.Titulo</td>
+                    <td>@curso.Descricao</td>
+                    <td>@curso.PrecoBase.ToString("C")</td>
+                    <td>@curso.CargaHoraria</td>
+                    <td>
+                        <a href="@Url.Action("Edit", new { id = curso.Id })" class="btn btn-sm btn-warning">Editar</a>
+                        <a href="@Url.Action("Details", new { id = curso.Id })" class="btn btn-sm btn-info">Detalhes</a>
+                        <a href="@Url.Action("Delete", new { id = curso.Id })" class="btn btn-sm btn-danger">Excluir</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

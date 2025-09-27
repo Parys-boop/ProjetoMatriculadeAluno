@@ -1,0 +1,82 @@
+﻿@model Curso
+@{
+    ViewData["Title"] = "Editar Curso";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <div class="card-header bg-warning text-dark">
+                    <h4 class="mb-0">
+                        <i class="fas fa-edit"></i> Editar Curso
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Edit" method="post">
+                        <input type="hidden" asp-for="Id" />
+
+                        <div class="row">
+                            <div class="col-md-12 mb-3">
+                                <label asp-for="Titulo" class="form-label">
+                                    <i class="fas fa-heading"></i> Título do Curso *
+                                </label>
+                                <input asp-for="Titulo" class="form-control" placeholder="Digite o título do curso" />
+                                <span asp-validation-for="Titulo" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-12 mb-3">
+                                <label asp-for="Descricao" class="form-label">
+                                    <i class="fas fa-align-left"></i> Descrição
+                                </label>
+                                <textarea asp-for="Descricao" class="form-control" rows="4" placeholder="Descreva o conteúdo do curso (opcional)"></textarea>
+                                <span asp-validation-for="Descricao" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="PrecoBase" class="form-label">
+                                    <i class="fas fa-dollar-sign"></i> Preço Base *
+                                </label>
+                                <div class="input-group">
+                                    <span class="input-group-text">R$</span>
+                                    <input asp-for="PrecoBase" type="number" step="0.01" min="0" class="form-control" placeholder="0,00" />
+                                </div>
+                                <span asp-validation-for="PrecoBase" class="text-danger"></span>
+                            </div>
+
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="CargaHoraria" class="form-label">
+                                    <i class="fas fa-clock"></i> Carga Horária *
+                                </label>
+                                <div class="input-group">
+                                    <input asp-for="CargaHoraria" type="number" min="1" class="form-control" placeholder="0" />
+                                    <span class="input-group-text">horas</span>
+                                </div>
+                                <span asp-validation-for="CargaHoraria" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                            <a href="@Url.Action("Index")" class="btn btn-secondary me-2">
+                                <i class="fas fa-arrow-left"></i> Cancelar
+                            </a>
+                            <button type="submit" class="btn btn-warning text-dark">
+                                <i class="fas fa-save"></i> Salvar Alterações
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

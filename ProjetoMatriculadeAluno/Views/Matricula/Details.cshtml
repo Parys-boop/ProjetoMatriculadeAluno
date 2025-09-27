@@ -1,0 +1,107 @@
+﻿@model Matricula
+@{
+    ViewData["Title"] = "Detalhes da Matrícula";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <div class="card-header bg-info text-white">
+                    <h4 class="mb-0">
+                        <i class="fas fa-eye"></i> Detalhes da Matrícula
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <dl class="row">
+                        <dt class="col-sm-3">
+                            <i class="fas fa-user"></i> Aluno:
+                        </dt>
+                        <dd class="col-sm-9">
+                            <strong>@Model.Aluno?.Nome</strong>
+                        </dd>
+
+                        <dt class="col-sm-3">
+                            <i class="fas fa-book"></i> Curso:
+                        </dt>
+                        <dd class="col-sm-9">
+                            <strong>@Model.Curso?.Titulo</strong>
+                        </dd>
+
+                        <dt class="col-sm-3">
+                            <i class="fas fa-calendar"></i> Data da Matrícula:
+                        </dt>
+                        <dd class="col-sm-9">
+                            @Model.Data.ToString("dd/MM/yyyy HH:mm")
+                        </dd>
+
+                        <dt class="col-sm-3">
+                            <i class="fas fa-flag"></i> Status:
+                        </dt>
+                        <dd class="col-sm-9">
+                            @switch (Model.Status)
+                            {
+                                case StatusMatricula.Ativo:
+                                    <span class="badge bg-success fs-6">Ativo</span>
+                                    break;
+                                case StatusMatricula.Concluido:
+                                    <span class="badge bg-primary fs-6">Concluído</span>
+                                    break;
+                                case StatusMatricula.Cancelado:
+                                    <span class="badge bg-danger fs-6">Cancelado</span>
+                                    break;
+                            }
+                        </dd>
+
+                        <dt class="col-sm-3">
+                            <i class="fas fa-percent"></i> Progresso:
+                        </dt>
+                        <dd class="col-sm-9">
+                            <div class="progress" style="height: 25px;">
+                                <div class="progress-bar @(Model.Progresso == 100 ? "bg-success" : "bg-info")"
+                                     role="progressbar"
+                                     style="width: @Model.Progresso%"
+                                     aria-valuenow="@Model.Progresso"
+                                     aria-valuemin="0"
+                                     aria-valuemax="100">
+                                    @Model.Progresso%
+                                </div>
+                            </div>
+                        </dd>
+
+                        <dt class="col-sm-3">
+                            <i class="fas fa-dollar-sign"></i> Preço Pago:
+                        </dt>
+                        <dd class="col-sm-9">
+                            <span class="badge bg-success fs-6">@Model.PrecoPago.ToString("C")</span>
+                        </dd>
+
+                        <dt class="col-sm-3">
+                            <i class="fas fa-star"></i> Nota Final:
+                        </dt>
+                        <dd class="col-sm-9">
+                            @if (Model.NotaFinal.HasValue)
+                            {
+                                <span class="badge bg-warning fs-6">@Model.NotaFinal.Value / 10</span>
+                            }
+                            else
+                            {
+                                <span class="text-muted">Não informada</span>
+                            }
+                        </dd>
+                    </dl>
+
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end mt-4">
+                        <a href="@Url.Action("Edit", new { alunoId = Model.AlunoId, cursoId = Model.CursoId })"
+                           class="btn btn-warning me-2">
+                            <i class="fas fa-edit"></i> Editar
+                        </a>
+                        <a href="@Url.Action("Index")" class="btn btn-secondary">
+                            <i class="fas fa-arrow-left"></i> Voltar
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

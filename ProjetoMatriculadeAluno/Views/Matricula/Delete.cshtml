@@ -1,0 +1,107 @@
+﻿@model Matricula
+@{
+    ViewData["Title"] = "Cancelar Matrícula";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm border-danger">
+                <div class="card-header bg-danger text-white">
+                    <h4 class="mb-0">
+                        <i class="fas fa-exclamation-triangle"></i> Cancelar Matrícula
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <div class="alert alert-warning">
+                        <i class="fas fa-exclamation-triangle"></i>
+                        <strong>Atenção!</strong> Você tem certeza que deseja cancelar esta matrícula? Esta ação é irreversível.
+                    </div>
+
+                    <dl class="row">
+                        <dt class="col-sm-3">
+                            <i class="fas fa-user"></i> Aluno:
+                        </dt>
+                        <dd class="col-sm-9">
+                            <strong>@Model.Aluno?.Nome</strong>
+                        </dd>
+
+                        <dt class="col-sm-3">
+                            <i class="fas fa-book"></i> Curso:
+                        </dt>
+                        <dd class="col-sm-9">
+                            <strong>@Model.Curso?.Titulo</strong>
+                        </dd>
+
+                        <dt class="col-sm-3">
+                            <i class="fas fa-calendar"></i> Data da Matrícula:
+                        </dt>
+                        <dd class="col-sm-9">
+                            @Model.Data.ToString("dd/MM/yyyy HH:mm")
+                        </dd>
+
+                        <dt class="col-sm-3">
+                            <i class="fas fa-flag"></i> Status:
+                        </dt>
+                        <dd class="col-sm-9">
+                            @switch (Model.Status)
+                            {
+                                case StatusMatricula.Ativo:
+                                    <span class="badge bg-success">Ativo</span>
+                                    break;
+                                case StatusMatricula.Concluido:
+                                    <span class="badge bg-primary">Concluído</span>
+                                    break;
+                                case StatusMatricula.Cancelado:
+                                    <span class="badge bg-danger">Cancelado</span>
+                                    break;
+                            }
+                        </dd>
+
+                        <dt class="col-sm-3">
+                            <i class="fas fa-percent"></i> Progresso:
+                        </dt>
+                        <dd class="col-sm-9">
+                            <span class="badge bg-info">@Model.Progresso%</span>
+                        </dd>
+
+                        <dt class="col-sm-3">
+                            <i class="fas fa-dollar-sign"></i> Preço Pago:
+                        </dt>
+                        <dd class="col-sm-9">
+                            <span class="badge bg-success">@Model.PrecoPago.ToString("C")</span>
+                        </dd>
+
+                        <dt class="col-sm-3">
+                            <i class="fas fa-star"></i> Nota Final:
+                        </dt>
+                        <dd class="col-sm-9">
+                            @if (Model.NotaFinal.HasValue)
+                            {
+                                <span class="badge bg-warning">@Model.NotaFinal.Value / 10</span>
+                            }
+                            else
+                            {
+                                <span class="text-muted">Não informada</span>
+                            }
+                        </dd>
+                    </dl>
+
+                    <form asp-action="Delete" method="post">
+                        <input type="hidden" asp-for="AlunoId" />
+                        <input type="hidden" asp-for="CursoId" />
+
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                            <a href="@Url.Action("Index")" class="btn btn-secondary me-2">
+                                <i class="fas fa-times"></i> Cancelar
+                            </a>
+                            <button type="submit" class="btn btn-danger">
+                                <i class="fas fa-trash"></i> Confirmar Cancelamento
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

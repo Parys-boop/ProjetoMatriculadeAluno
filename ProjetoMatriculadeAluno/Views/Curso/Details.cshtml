@@ -1,0 +1,122 @@
+﻿@model Curso
+@{
+    ViewData["Title"] = "Detalhes do Curso";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <div class="card-header bg-info text-white">
+                    <h4 class="mb-0">
+                        <i class="fas fa-eye"></i> Detalhes do Curso
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <dl class="row">
+                        <dt class="col-sm-3">
+                            <i class="fas fa-heading"></i> Título:
+                        </dt>
+                        <dd class="col-sm-9">
+                            <strong>@Model.Titulo</strong>
+                        </dd>
+
+                        <dt class="col-sm-3">
+                            <i class="fas fa-align-left"></i> Descrição:
+                        </dt>
+                        <dd class="col-sm-9">
+                            @if (!string.IsNullOrEmpty(Model.Descricao))
+                            {
+                                @Model.Descricao
+                            }
+                            else
+                            {
+                                <span class="text-muted">Sem descrição informada</span>
+                            }
+                        </dd>
+
+                        <dt class="col-sm-3">
+                            <i class="fas fa-dollar-sign"></i> Preço Base:
+                        </dt>
+                        <dd class="col-sm-9">
+                            <span class="badge bg-success fs-6">@Model.PrecoBase.ToString("C")</span>
+                        </dd>
+
+                        <dt class="col-sm-3">
+                            <i class="fas fa-clock"></i> Carga Horária:
+                        </dt>
+                        <dd class="col-sm-9">
+                            <span class="badge bg-info fs-6">@Model.CargaHoraria horas</span>
+                        </dd>
+                    </dl>
+
+                    @if (Model.Matriculas != null && Model.Matriculas.Any())
+                    {
+                        <hr />
+                        <h5>
+                            <i class="fas fa-users"></i> Alunos Matriculados (@Model.Matriculas.Count())
+                        </h5>
+                        <div class="table-responsive">
+                            <table class="table table-sm table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Aluno</th>
+                                        <th>Status</th>
+                                        <th>Progresso</th>
+                                        <th>Preço Pago</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var matricula in Model.Matriculas)
+                                    {
+                                        <tr>
+                                            <td>@matricula.Aluno?.Nome</td>
+                                            <td>
+                                                @switch (matricula.Status)
+                                                {
+                                                    case StatusMatricula.Ativo:
+                                                        <span class="badge bg-success">Ativo</span>
+                                                        break;
+                                                    case StatusMatricula.Concluido:
+                                                        <span class="badge bg-primary">Concluído</span>
+                                                        break;
+                                                    case StatusMatricula.Cancelado:
+                                                        <span class="badge bg-danger">Cancelado</span>
+                                                        break;
+                                                }
+                                            </td>
+                                            <td>
+                                                <div class="progress" style="height: 20px;">
+                                                    <div class="progress-bar" role="progressbar" style="width: @matricula.Progresso%">
+                                                        @matricula.Progresso%
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td>@matricula.PrecoPago.ToString("C")</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+                    else
+                    {
+                        <hr />
+                        <div class="alert alert-info">
+                            <i class="fas fa-info-circle"></i> Este curso ainda não possui alunos matriculados.
+                        </div>
+                    }
+
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end mt-3">
+                        <a href="@Url.Action("Edit", new { id = Model.Id })" class="btn btn-warning me-2">
+                            <i class="fas fa-edit"></i> Editar
+                        </a>
+                        <a href="@Url.Action("Index")" class="btn btn-secondary">
+                            <i class="fas fa-arrow-left"></i> Voltar
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
