@@ -21,5 +21,3 @@ Sistema que gerencia alunos, cursos e matrículas em uma plataforma EAD. Impleme
 - **Database**: PostgreSQL
 - **Frontend**: Bootstrap 5, HTML5, CSS3
 - **IDE**: Visual Studio 2022
-
-## 🏗 Modelo de Dados
