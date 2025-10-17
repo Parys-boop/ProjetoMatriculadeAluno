@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\controllers\\relatorioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\controllers\\relatorioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\views\\relatorios\\matriculasporcurso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\views\\relatorios\\matriculasporcurso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\viewmodels\\relatoriomatriculasvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\viewmodels\\relatoriomatriculasvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\views\\matricula\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\models\\matriculaeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\models\\matriculaeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\views\\matricula\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\views\\matricula\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\models\\matriculaporalunoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\models\\matriculaporalunoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\views\\matricula\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,14 +71,6 @@
       "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\views\\matricula\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\models\\matriculacreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\models\\matriculacreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\views\\matricula\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\views\\matricula\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -63,20 +87,8 @@
       "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\views\\matricula\\poraluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\views\\matricula\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\views\\matricula\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\views\\curso\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -103,10 +115,6 @@
       "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -123,32 +131,24 @@
       "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\views\\aluno\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\views\\aluno\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\views\\aluno\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Migrations\\20250926225338_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoMatriculadeAluno\\Migrations\\20250926225338_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\projetomatriculadealuno.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\projetomatriculadealuno.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\projetomatriculadealuno\\projetomatriculadealuno\\migrations\\20250926225338_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF77C72-1C8B-496D-B07A-AF0C8A4783D8}|ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj|solutionrelative:projetomatriculadealuno\\migrations\\20250926225338_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -158,115 +158,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MatriculaEditViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Models\\MatriculaEditViewModel.cs",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Models\\MatriculaEditViewModel.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Models\\MatriculaEditViewModel.cs",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Models\\MatriculaEditViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T00:21:00.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Matricula\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Edit.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Matricula\\Edit.cshtml",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAiwGQAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "MatriculasPorCurso.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Relatorios\\MatriculasPorCurso.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Relatorios\\MatriculasPorCurso.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Relatorios\\MatriculasPorCurso.cshtml*",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Relatorios\\MatriculasPorCurso.cshtml*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwFYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-27T00:16:47.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Matricula\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Create.cshtml.cs",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Matricula\\Create.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T00:08:58.07Z",
+              "WhenOpened": "2025-10-17T00:51:51.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MatriculaController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\MatriculaController.cs",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Controllers\\MatriculaController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\MatriculaController.cs",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Controllers\\MatriculaController.cs",
-              "ViewState": "AgIAAAoBAAAAAAAAAADwvx0BAAABAAAAAAAAAA==",
+              "Title": "RelatoriosController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\RelatoriosController.cs",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Controllers\\RelatoriosController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\RelatoriosController.cs*",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Controllers\\RelatoriosController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T22:40:44.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Create.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Matricula\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Create.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Matricula\\Create.cshtml",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAIwGcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T23:59:05.055Z",
+              "WhenOpened": "2025-10-17T00:28:55.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MatriculaPorAlunoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Models\\MatriculaPorAlunoViewModel.cs",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Models\\MatriculaPorAlunoViewModel.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Models\\MatriculaPorAlunoViewModel.cs",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Models\\MatriculaPorAlunoViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T23:03:50.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MatriculaCreateViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Models\\MatriculaCreateViewModel.cs",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Models\\MatriculaCreateViewModel.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Models\\MatriculaCreateViewModel.cs",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Models\\MatriculaCreateViewModel.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T00:11:48.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Details.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Matricula\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Details.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Matricula\\Details.cshtml",
-              "ViewState": "AgIAAFUAAAAAAAAAAADwv2QAAAAcAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-27T00:17:01.946Z",
+              "WhenOpened": "2025-09-26T23:47:21.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T22:38:54.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T22:52:38.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Controllers\\CursoController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Controllers\\CursoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T22:52:46.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "RelatorioMatriculasVM.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\ViewModels\\RelatorioMatriculasVM.cs",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\ViewModels\\RelatorioMatriculasVM.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\ViewModels\\RelatorioMatriculasVM.cs*",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\ViewModels\\RelatorioMatriculasVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:42:42.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Program.cs",
@@ -274,129 +261,35 @@
               "RelativeToolTip": "ProjetoMatriculadeAluno\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T22:37:38.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Matricula\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Delete.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Matricula\\Delete.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAwGoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-27T00:17:19.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Curso\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Index.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Curso\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T22:58:26.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Matricula.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Models\\Matricula.cs",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Models\\Matricula.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Models\\Matricula.cs",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Models\\Matricula.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAywCIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T22:33:21.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T22:37:38.765Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T23:45:07.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cs",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cs",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAUwHwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T23:58:23.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cshtml",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAwEcAAAAGAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Matricula\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Details.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Matricula\\Details.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwv2QAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T23:58:40.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T00:17:01.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PorAluno.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\PorAluno.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Matricula\\PorAluno.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\PorAluno.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Matricula\\PorAluno.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEEAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Matricula\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Create.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Matricula\\Create.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwGcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-27T00:01:48.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T23:59:05.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Aluno\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Index.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Aluno\\Index.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T22:56:55.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CursoController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\CursoController.cs",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Controllers\\CursoController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\CursoController.cs",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Controllers\\CursoController.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAA2wJUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T22:52:46.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 7,
               "Title": "Curso.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Models\\Curso.cs",
               "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Models\\Curso.cs",
@@ -409,228 +302,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAiwFoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T23:45:34.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T23:46:20.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwDgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T23:47:21.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Curso\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Delete.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Curso\\Delete.cshtml",
-              "ViewState": "AgIAADQAAAAAAAAAAAAIwEgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T23:51:33.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Curso\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Edit.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Curso\\Edit.cshtml",
-              "ViewState": "AgIAADsAAAAAAAAAAAAIwFEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T23:50:45.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Details.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Curso\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Details.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Curso\\Details.cshtml",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAIwHkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T23:51:03.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Details.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Aluno\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Details.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Aluno\\Details.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAIwDAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T23:41:09.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Create.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Curso\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Create.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Curso\\Create.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAIwE8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T22:58:45.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T23:47:47.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Aluno\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Delete.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Aluno\\Delete.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwB0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T23:41:23.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Aluno\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Edit.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Aluno\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T23:40:27.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Create.cshtml",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Aluno\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Create.cshtml",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Aluno\\Create.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T22:57:51.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "AlunoController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\AlunoController.cs",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Controllers\\AlunoController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\AlunoController.cs",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Controllers\\AlunoController.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAUwJIAAAABAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Models\\Matricula.cs",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Models\\Matricula.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Models\\Matricula.cs",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Models\\Matricula.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T22:52:38.857Z",
+              "WhenOpened": "2025-09-26T22:33:21.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwCcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T22:38:54.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "20250926225338_Inicial.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Migrations\\20250926225338_Inicial.cs",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Migrations\\20250926225338_Inicial.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Migrations\\20250926225338_Inicial.cs",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\Migrations\\20250926225338_Inicial.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T22:53:38.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\appsettings.json",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\appsettings.json",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\appsettings.json",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-26T22:34:12.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ProjetoMatriculadeAluno.csproj",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj",
-              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj",
-              "RelativeToolTip": "ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-26T22:45:54.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 9,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Models\\Aluno.cs",
               "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Models\\Aluno.cs",
@@ -640,6 +325,295 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T22:20:21.147Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MatriculaController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\MatriculaController.cs",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Controllers\\MatriculaController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\MatriculaController.cs",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Controllers\\MatriculaController.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAADwvxcBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T22:40:44.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Matricula\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Create.cshtml.cs",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Matricula\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T00:08:58.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Matricula\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Edit.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Matricula\\Edit.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T00:16:47.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Matricula\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Delete.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Matricula\\Delete.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAwGoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T00:17:19.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Curso\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Index.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Curso\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T22:58:26.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T23:45:07.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cs",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cs",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAUwHwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T23:58:23.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Matricula\\Index.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwEcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T23:58:40.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PorAluno.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\PorAluno.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Matricula\\PorAluno.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Matricula\\PorAluno.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Matricula\\PorAluno.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T00:01:48.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Aluno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Index.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Aluno\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T22:56:55.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwFoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T23:45:34.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T23:46:20.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Curso\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Delete.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Curso\\Delete.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwEgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T23:51:33.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Curso\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Edit.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Curso\\Edit.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T23:50:45.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Curso\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Details.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Curso\\Details.cshtml",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwHkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T23:51:03.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Aluno\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Details.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Aluno\\Details.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T23:41:09.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Curso\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Curso\\Create.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Curso\\Create.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T22:58:45.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T23:47:47.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Aluno\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Delete.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Aluno\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T23:41:23.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Aluno\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Edit.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Aluno\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T23:40:27.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Views\\Aluno\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Views\\Aluno\\Create.cshtml",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Views\\Aluno\\Create.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T22:57:51.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250926225338_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Migrations\\20250926225338_Inicial.cs",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\Migrations\\20250926225338_Inicial.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\Migrations\\20250926225338_Inicial.cs",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\Migrations\\20250926225338_Inicial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T22:53:38.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\appsettings.json",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T22:34:12.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProjetoMatriculadeAluno.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj",
+              "RelativeDocumentMoniker": "ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj",
+              "RelativeToolTip": "ProjetoMatriculadeAluno\\ProjetoMatriculadeAluno.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T22:45:54.352Z"
             }
           ]
         }

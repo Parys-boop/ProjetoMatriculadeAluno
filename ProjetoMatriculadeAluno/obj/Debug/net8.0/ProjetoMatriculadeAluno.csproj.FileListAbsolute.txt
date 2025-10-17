@@ -266,3 +266,4 @@ C:\Users\Administrador\Desktop\trabalhos_faculdade\ProjetoMatriculadeAluno\Proje
 C:\Users\Administrador\Desktop\trabalhos_faculdade\ProjetoMatriculadeAluno\ProjetoMatriculadeAluno\obj\Debug\net8.0\ProjetoMatriculadeAluno.pdb
 C:\Users\Administrador\Desktop\trabalhos_faculdade\ProjetoMatriculadeAluno\ProjetoMatriculadeAluno\obj\Debug\net8.0\ProjetoMatriculadeAluno.genruntimeconfig.cache
 C:\Users\Administrador\Desktop\trabalhos_faculdade\ProjetoMatriculadeAluno\ProjetoMatriculadeAluno\obj\Debug\net8.0\ref\ProjetoMatriculadeAluno.dll
+C:\Users\Administrador\Desktop\trabalhos_faculdade\ProjetoMatriculadeAluno\ProjetoMatriculadeAluno\obj\Debug\net8.0\ProjetoMatriculadeAluno.sourcelink.json

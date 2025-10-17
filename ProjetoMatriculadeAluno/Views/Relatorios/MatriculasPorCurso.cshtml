@@ -1,0 +1,87 @@
+﻿@model ProjetoMatriculadeAluno.ViewModels.RelatorioMatriculasVM
+
+@{
+    ViewData["Title"] = "Relatório de Matrículas por Curso";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1 class="m-0">
+        <i class="fas fa-chart-bar"></i> @Model.NomeTitulo
+    </h1>
+    <a href="@Url.Action("MatriculasPorCursoCsv", new { filtroTitulo = Model.FiltroTitulo })"
+       class="btn btn-success">
+        <i class="fas fa-download"></i> Exportar CSV
+    </a>
+</div>
+
+<!-- Filtro -->
+<form method="get" class="mb-4">
+    <div class="input-group">
+        <span class="input-group-text"><i class="fas fa-search"></i></span>
+        <input type="text" class="form-control" name="filtroTitulo"
+               value="@Model.FiltroTitulo" placeholder="Filtrar por título do curso..." />
+        <button class="btn btn-outline-light" type="submit">Filtrar</button>
+        @if (!string.IsNullOrWhiteSpace(Model.FiltroTitulo))
+        {
+            <a href="@Url.Action("MatriculasPorCurso")" class="btn btn-outline-secondary">Limpar</a>
+        }
+    </div>
+</form>
+
+<!-- Tabela de Resultados -->
+<div class="card p-0">
+    <div class="table-responsive">
+        <table class="table align-middle mb-0">
+            <thead>
+                <tr>
+                    <th>Nome do Curso</th>
+                    <th class="text-center">Quantidade de Alunos</th>
+                    <th class="text-end">Valor Total Arrecadado</th>
+                    <th class="text-end">Valor Médio por Aluno</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Linhas.Count > 0)
+                {
+                    @foreach (var linha in Model.Linhas)
+                    {
+                        <tr>
+                            <td>
+                                <i class="fas fa-book"></i> @linha.NomeCurso
+                            </td>
+                            <td class="text-center">
+                                <span class="badge bg-primary">@linha.QuantidadeAlunos</span>
+                            </td>
+                            <td class="text-end">
+                                <strong>@linha.ValorTotal.ToString("C")</strong>
+                            </td>
+                            <td class="text-end">@linha.ValorMedioPorAluno.ToString("C")</td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="4" class="text-center text-muted py-4">
+                            <i class="fas fa-inbox"></i> Nenhum resultado encontrado para o filtro fornecido.
+                        </td>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr class="table-active">
+                    <td><strong><i class="fas fa-sum"></i> TOTAIS</strong></td>
+                    <td class="text-center">
+                        <strong>@Model.TotalAlunos</strong>
+                    </td>
+                    <td class="text-end">
+                        <strong>@Model.ValorTotalArrecadado.ToString("C")</strong>
+                    </td>
+                    <td class="text-end">
+                        <strong>@Model.ValorMedioGeral.ToString("C")</strong>
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+</div>
