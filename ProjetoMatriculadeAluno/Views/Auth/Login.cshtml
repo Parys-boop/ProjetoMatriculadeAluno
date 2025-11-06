@@ -1,0 +1,101 @@
+@{
+    ViewData["Title"] = "Login";
+    Layout = null; // Não usar o layout padrão
+}
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Plataforma EAD</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <style>
+   body {
+     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+     display: flex;
+       align-items: center;
+    justify-content: center;
+        }
+        .login-container {
+            background: white;
+ border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+padding: 40px;
+            max-width: 400px;
+        width: 100%;
+        }
+        .login-title {
+  text-align: center;
+          margin-bottom: 30px;
+      color: #333;
+ font-weight: bold;
+        }
+        .btn-login {
+    width: 100%;
+        padding: 12px;
+ font-size: 16px;
+            font-weight: bold;
+        }
+ .signup-link {
+            text-align: center;
+      margin-top: 20px;
+        color: #666;
+      }
+    .signup-link a {
+  color: #667eea;
+      text-decoration: none;
+      font-weight: bold;
+        }
+        .signup-link a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+      <h2 class="login-title">?? Plataforma EAD</h2>
+     <h4 class="text-center mb-4">Fazer Login</h4>
+
+    @if (TempData["Sucesso"] != null)
+        {
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+      @TempData["Sucesso"]
+             <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+ </div>
+        }
+
+        @if (!ViewData.ModelState.IsValid)
+    {
+<div class="alert alert-danger" role="alert">
+  @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+         </div>
+   }
+
+ <form asp-action="Login" method="post">
+        @Html.AntiForgeryToken()
+            
+ <div class="mb-3">
+           <label for="email" class="form-label">Email</label>
+         <input type="email" class="form-control" id="email" name="email" placeholder="seu@email.com" required>
+            </div>
+
+     <div class="mb-4">
+   <label for="senha" class="form-label">Senha</label>
+ <input type="password" class="form-control" id="senha" name="senha" placeholder="Digite sua senha" required>
+    </div>
+
+   <button type="submit" class="btn btn-primary btn-login">Acessar</button>
+        </form>
+
+        <div class="signup-link">
+      <p>Não tem conta? <a asp-action="Cadastro">Clique aqui para criar</a></p>
+      </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

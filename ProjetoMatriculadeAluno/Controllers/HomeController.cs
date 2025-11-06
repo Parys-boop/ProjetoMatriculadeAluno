@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
+using ProjetoMatriculadeAluno.Filters;
 
+[AuthorizeSession]
 public class HomeController : Controller
 {
     public IActionResult Index()
